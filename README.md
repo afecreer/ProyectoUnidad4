@@ -152,3 +152,4 @@ Cada opción ejecuta una funcionalidad específica para la administración de us
 ## Autor
 
 Proyecto académico desarrollado para la práctica de programación en Python con Dev Senior Code, enfocado en el manejo de archivos, validación de datos y control de excepciones.
+Andrés Felipe Cruz Eraso

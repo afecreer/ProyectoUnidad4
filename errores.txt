@@ -1,0 +1,7 @@
+Línea 1: Carlos,25,2026-06-12 16:31:07 -> Formato incorrecto
+Línea 2: Maria,-52,2026-06-12 16:31:21 -> Formato incorrecto
+Línea 3: Miguel,24,2026-06-12 16:31:31 -> Formato incorrecto
+Línea 4: ,23,2026-06-12 16:31:38 -> Formato incorrecto
+Línea 5: Manuela,19,2026-06-12 16:32:05 -> Formato incorrecto
+Línea 6: Felipe,148,2026-06-12 16:32:22 -> Formato incorrecto
+Línea 7: Valentina,30,2026-06-12 16:32:31 -> Formato incorrecto
